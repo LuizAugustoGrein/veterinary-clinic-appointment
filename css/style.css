@@ -1,0 +1,11 @@
+
+.pos-f-t{
+    display: none;
+}
+
+@media screen and (max-width: 991px){
+    .pos-f-t{
+        display: block;
+        width: 100%;
+    }
+}
